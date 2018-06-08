@@ -1,0 +1,15 @@
+{
+    "name": "LOVEThESIGN/kata",
+    "authors": [
+        {
+            "name": "Massimo Ruggirello",
+            "email": "mruggirello@lovethesign.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LOVEThESIGN\\": "src"
+        }
+    },
+    "require": {}
+}

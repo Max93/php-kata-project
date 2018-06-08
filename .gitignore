@@ -1,0 +1,4 @@
+.env
+app/vendor
+data
+.DS_Store
